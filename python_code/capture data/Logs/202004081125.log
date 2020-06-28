@@ -1,0 +1,4 @@
+2020-04-08 11:25:24,571 - argparse_study_1.py[line:26] - INFO: this is a logger info message
+2020-04-08 11:25:24,572 - argparse_study_1.py[line:27] - WARNING: this is a logger warning message
+2020-04-08 11:25:24,572 - argparse_study_1.py[line:28] - ERROR: this is a logger error message
+2020-04-08 11:25:24,572 - argparse_study_1.py[line:29] - CRITICAL: this is a logger critical message

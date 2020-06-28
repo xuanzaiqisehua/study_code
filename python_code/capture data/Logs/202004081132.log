@@ -1,0 +1,4 @@
+2020-04-08 11:32:41,229 - log_日志模块1.py[line:62] - INFO: this is a logger info message
+2020-04-08 11:32:41,229 - log_日志模块1.py[line:63] - WARNING: this is a logger warning message
+2020-04-08 11:32:41,229 - log_日志模块1.py[line:64] - ERROR: this is a logger error message
+2020-04-08 11:32:41,229 - log_日志模块1.py[line:65] - CRITICAL: this is a logger critical message
